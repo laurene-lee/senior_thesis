@@ -1,2 +1,2 @@
 # senior_thesis
-Repo for my senior thesis project
+This repo contains some of the R codes and data for my senior thesis project, "Causes of Provocation: An Electoral Analysis."
