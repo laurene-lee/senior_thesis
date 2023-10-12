@@ -1,4 +1,4 @@
-##### Additional data cleaning for SK election & NK provocation analysis
+##### Additional data cleaning for analysis on SK elections & NK provocations 
 #####===========================================================================
 
 ##### Load libaries
